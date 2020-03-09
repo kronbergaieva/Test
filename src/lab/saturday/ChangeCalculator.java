@@ -25,7 +25,7 @@ public class ChangeCalculator {
 		int price, received, change;
 		int pay50, pay20, pay10, pay5, pay2, pay1;
 		
-		System.out.println()
+		System.out.println("Test");
 		
 
 		
